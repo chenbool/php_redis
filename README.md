@@ -1,7 +1,6 @@
-# php_redis
-php使用 tcp 链接redis操作
+# php tcp 连接 redis
 
-// 使用
+## 使用
 
 ```
 $redis = new Redis('127.0.0.1');
