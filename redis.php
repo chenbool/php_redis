@@ -1,6 +1,7 @@
 <?php
 /**
 * Redis 操作类
+* qq:30024167
 */
 class Redis
 {
